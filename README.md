@@ -13,6 +13,7 @@ This project is a web service built with [FastAPI](https://fastapi.tiangolo.com/
 
 - Python 3.9+
 - Google API Key for Gemini (via Google AI Studio)
+- Virtual env for development
 
 ### Install dependencies
 
